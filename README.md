@@ -15,9 +15,40 @@ Estudiantes de la Maestría en Inteligencia Artificial en el Instituto de Invest
 
 ### Día 1 - Introducción y procesamiento de datos en Python
 
+1. ¿Qué es el Aprendizaje Automático?
+2. Tipos de Aprendizaje Automático
+3. ¿Cuáles son las partes del Aprendizaje Automático? ¿Qué es el *Knowledge Discovery in Databases (KDD)?
+4. ¿Cuándo utilizar Aprendizaje Automático?
+5. Numpy, Pandas y Matplotlib 
+6. Discretización de datos
+7. Aumentación de datos
+8. Selección de características
+
 ### Día 2 - Aprendizaje Supervisado
+
+1. Zoológico de algoritmos de Aprendizaje Automático
+2. ¿Cuándo elegimos cuál algoritmo? Teorema del *No Free Lunch*
+3. Algoritmo de Aprendizaje Supervisado
+4. Métricas de evaluación
+5. Validación cruzada
+6. Algoritmo de K Vecinos más Cercanos (K-NN)
+7. Algoritmo Ingenuo Bayesiano (Naïve-Bayes)
+8. Algoritmo de Árbol de Decisión
 
 ### Día 3 - Aprendizaje No Supervisado y Aprendizaje por Refuerzo
 
+1. Algoritmos de Aprendizaje No Supervisado
+2. Algoritmo K-Medias (K-Means)
+3. Algoritmos de Aprendizaje por Refuerzo
+4. Algoritmo de Aprendizaje-Q (Q-Learning)
+
 ### Día 4 - Redes Neuronales y Aprendizaje Profundo
 
+1. El Perceptrón
+2. Redes Neuronales Multicapa y retropropagación
+3. Red Neuronal Multicapa en Scikit-Learn
+4. Redes Neuronales Recurrentes (RNN)
+5. Redes Neuronales Convolucionales (CNN)
+6. Red Neuronal Convolucional en PyTorch
+7. Autoencoders y GANs
+8. Trabajo futuro y proyectos actuales
