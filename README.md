@@ -1,4 +1,5 @@
 # Taller de Aprendizaje Automático en Python
 Contenido del taller de Aprendizaje Automático en Python, del Coloquio de Divulgación de la Comunidad de Ingeniería en Sistemas (ColSis) del Instituto Tecnológico de Veracruz. 
 
-![Instituto Tecnológico de Veracruz](logoITV.png)  ![Logo COVNNEC-App](LogoCOVNNECApp.png)
+![Instituto Tecnológico de Veracruz](logoITV.png)  <img src="LogoCOVNNECApp.png" width ="100" height="26.59">
+
