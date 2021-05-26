@@ -5,5 +5,7 @@ Contenido del taller de Aprendizaje Automático en Python, del Coloquio de Divul
 
 ## Impartido por:
 
-José Clemente Hernández Hernández       Gustavo Adolfo Vargas Hákim
+José Clemente Hernández Hernández  
+
+Gustavo Adolfo Vargas Hákim
 
