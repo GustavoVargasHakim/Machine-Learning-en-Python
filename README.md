@@ -23,6 +23,7 @@ Estudiantes de la Maestría en Inteligencia Artificial en el Instituto de Invest
 6. Discretización de datos
 7. Aumentación de datos
 8. Selección de características
+9. Preprocesamiento de datos en Python [<img src = "badgecolab.svg">](https://githubtocolab.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/main/Preprocesamiento_de_datos_en_Python_D%C3%ADa_1.ipynb)
 
 ### Día 2 - Aprendizaje Supervisado
 
