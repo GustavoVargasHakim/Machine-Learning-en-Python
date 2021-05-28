@@ -49,6 +49,6 @@ Estudiantes de la Maestría en Inteligencia Artificial en el Instituto de Invest
 3. Red Neuronal Multicapa en Scikit-Learn
 4. Redes Neuronales Recurrentes (RNN)
 5. Redes Neuronales Convolucionales (CNN)
-6. Red Neuronal Convolucional en PyTorch
+6. Red Neuronal Convolucional en PyTorch ([![Open In Colab](Redes_Neuronales_Convolucionales_-_Día_4.ipnb)
 7. Autoencoders y GANs
 8. Trabajo futuro y proyectos actuales
