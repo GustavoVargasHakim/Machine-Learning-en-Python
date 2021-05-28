@@ -35,5 +35,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-- name: Colab Badge Action
-  uses: trsvchn/colab-badge-action@v3.1
+      - name: Colab Badge Action
+        uses: trsvchn/colab-badge-action@v3.1
