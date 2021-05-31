@@ -15,7 +15,7 @@ Estudiantes de la Maestría en Inteligencia Artificial en el Instituto de Invest
 
 ### Día 1 - Introducción y procesamiento de datos en Python
 
-**Diapositivas**: [Descarga](https://github.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/7222d08aaacbb39fa5c98fa8e905cb864a685b00/Presentaci%C3%B3n%20D%C3%ADa%201%20-%20Aprendizaje%20Autom%C3%A1tico.pdf)
+**Diapositivas:** [Descarga](https://github.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/7222d08aaacbb39fa5c98fa8e905cb864a685b00/Presentaci%C3%B3n%20D%C3%ADa%201%20-%20Aprendizaje%20Autom%C3%A1tico.pdf)
 
 1. ¿Qué es el Aprendizaje Automático?
 2. Tipos de Aprendizaje Automático
@@ -29,6 +29,8 @@ Estudiantes de la Maestría en Inteligencia Artificial en el Instituto de Invest
 
 ### Día 2 - Aprendizaje Supervisado
 
+**Diapositivas:**
+
 1. Zoológico de algoritmos de Aprendizaje Automático
 2. ¿Cuándo elegimos cuál algoritmo? Teorema del *No Free Lunch*
 3. Algoritmo de Aprendizaje Supervisado
@@ -40,12 +42,16 @@ Estudiantes de la Maestría en Inteligencia Artificial en el Instituto de Invest
 
 ### Día 3 - Aprendizaje No Supervisado y Aprendizaje por Refuerzo
 
+**Diapositivas:**
+
 1. Algoritmos de Aprendizaje No Supervisado
 2. Algoritmo K-Medias (K-Means)
 3. Algoritmos de Aprendizaje por Refuerzo
 4. Algoritmo de Aprendizaje-Q (Q-Learning)
 
 ### Día 4 - Redes Neuronales y Aprendizaje Profundo
+
+**Diapositivas:**
 
 1. El Perceptrón
 2. Redes Neuronales Multicapa y retropropagación
