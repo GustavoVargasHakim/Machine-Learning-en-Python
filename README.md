@@ -9,7 +9,7 @@ Contenido del taller de Aprendizaje Automático en Python, del Coloquio de Divul
 
 * Gustavo Adolfo Vargas Hákim
 
-Estudiantes de la Maestría en Inteligencia Artificial en el Instituto de Investigaciones en Inteligencia Artificial de la Universidad Veracruzana (IIIA-UV) y miembros del grupo de investigación COVNNEC-App (Computer Vision, Neural Networks, Evolutionary Computation and their Applications). 
+Estudiantes terminales de la Maestría en Inteligencia Artificial en el Instituto de Investigaciones en Inteligencia Artificial de la Universidad Veracruzana (IIIA-UV) y miembros del grupo de investigación COVNNEC-App (Computer Vision, Neural Networks, Evolutionary Computation and their Applications). 
 
 ## **Contenido del Taller**
 
