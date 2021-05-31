@@ -15,6 +15,8 @@ Estudiantes de la Maestría en Inteligencia Artificial en el Instituto de Invest
 
 ### Día 1 - Introducción y procesamiento de datos en Python
 
+**Diapositivas**: [Descarga](https://githubtocolab.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/main/Presentación Día 1 - Aprendizaje Automático )
+
 1. ¿Qué es el Aprendizaje Automático?
 2. Tipos de Aprendizaje Automático
 3. ¿Cuáles son las partes del Aprendizaje Automático? ¿Qué es el *Knowledge Discovery in Databases (KDD)?
