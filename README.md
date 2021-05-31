@@ -15,7 +15,7 @@ Estudiantes de la Maestría en Inteligencia Artificial en el Instituto de Invest
 
 ### Día 1 - Introducción y procesamiento de datos en Python
 
-**Diapositivas**: [Descarga](https://githubtocolab.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/main/Presentación Día 1 - Aprendizaje Automático )
+**Diapositivas**: [Descarga](https://github.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/7222d08aaacbb39fa5c98fa8e905cb864a685b00/Presentaci%C3%B3n%20D%C3%ADa%201%20-%20Aprendizaje%20Autom%C3%A1tico.pdf)
 
 1. ¿Qué es el Aprendizaje Automático?
 2. Tipos de Aprendizaje Automático
