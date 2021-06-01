@@ -38,7 +38,8 @@ Estudiantes terminales de la Maestría en Inteligencia Artificial en el Institut
 5. Validación cruzada
 6. Algoritmo de K Vecinos más Cercanos (K-NN)
 7. Algoritmo Ingenuo Bayesiano (Naïve-Bayes)
-8. Algoritmo de Árbol de Decisión
+8. Algoritmo de Árbol de Decisión (ID3)
+9. Práctica [<img src = "badgecolab.svg">](github.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/main/Aprendizaje_Supervisado_Día_2.ipynb)
 
 ### Día 3 - Aprendizaje No Supervisado y Aprendizaje por Refuerzo
 
