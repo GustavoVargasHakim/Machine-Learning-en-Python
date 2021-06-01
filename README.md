@@ -29,7 +29,7 @@ Estudiantes terminales de la Maestría en Inteligencia Artificial en el Institut
 
 ### Día 2 - Aprendizaje Supervisado
 
-**Diapositivas:**
+**Diapositivas:** [Descarga](https://github.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/main/Presentaci%C3%B3n%20D%C3%ADa%202%20-%20Aprendizaje%20Autom%C3%A1tico.pdf)
 
 1. Zoológico de algoritmos de Aprendizaje Automático
 2. ¿Cuándo elegimos cuál algoritmo? Teorema del *No Free Lunch*
