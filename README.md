@@ -43,10 +43,10 @@ Estudiantes terminales de la Maestría en Inteligencia Artificial en el Institut
 
 ### Día 3 - Aprendizaje No Supervisado y Aprendizaje por Refuerzo
 
-**Diapositivas:**
+**Diapositivas:** [Descarga](https://github.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/main/Presentaci%C3%B3n%20D%C3%ADa%203%20-%20Aprendizaje%20Autom%C3%A1tico.pdf)
 
 1. Algoritmos de Aprendizaje No Supervisado
-2. Algoritmo K-Medias (K-Means)
+2. Algoritmo K-Medias (K-Means) [<img src = "badgecolab.svg">](https://githubtocolab.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/main/Aprendizaje_No_Supervisado_Día_3.ipynb)
 3. Algoritmos de Aprendizaje por Refuerzo
 4. Algoritmo de Aprendizaje-Q (Q-Learning) [Descarga](QLearning.py)
 
