@@ -48,7 +48,7 @@ Estudiantes terminales de la Maestría en Inteligencia Artificial en el Institut
 1. Algoritmos de Aprendizaje No Supervisado
 2. Algoritmo K-Medias (K-Means)
 3. Algoritmos de Aprendizaje por Refuerzo
-4. Algoritmo de Aprendizaje-Q (Q-Learning)
+4. Algoritmo de Aprendizaje-Q (Q-Learning) [Descarga](QLearning.py)
 
 ### Día 4 - Redes Neuronales y Aprendizaje Profundo
 
