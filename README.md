@@ -38,7 +38,8 @@ Estudiantes terminales de la Maestría en Inteligencia Artificial en el Institut
 5. Validación cruzada
 6. Algoritmo de K Vecinos más Cercanos (K-NN)
 7. Algoritmo Ingenuo Bayesiano (Naïve-Bayes)
-8. Algoritmo de Árbol de Decisión
+8. Algoritmo de Árbol de Decisión (ID3)
+9. Práctica [<img src = "badgecolab.svg">](https://githubtocolab.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/main/Aprendizaje_Supervisado_Día_2.ipynb)
 
 ### Día 3 - Aprendizaje No Supervisado y Aprendizaje por Refuerzo
 
@@ -47,7 +48,7 @@ Estudiantes terminales de la Maestría en Inteligencia Artificial en el Institut
 1. Algoritmos de Aprendizaje No Supervisado
 2. Algoritmo K-Medias (K-Means)
 3. Algoritmos de Aprendizaje por Refuerzo
-4. Algoritmo de Aprendizaje-Q (Q-Learning)
+4. Algoritmo de Aprendizaje-Q (Q-Learning) [Descarga](QLearning.py)
 
 ### Día 4 - Redes Neuronales y Aprendizaje Profundo
 
