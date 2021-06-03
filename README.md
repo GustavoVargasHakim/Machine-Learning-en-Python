@@ -66,12 +66,12 @@ Estudiantes terminales de la Maestría en Inteligencia Artificial en el Institut
 
 ### Recursos adicionales:
 
-***Lista de libros gratuitos y no gratuitos:***
+**Lista de libros gratuitos y no gratuitos:**
 
 https://pub.towardsai.net/best-machine-learning-books-free-and-paid-ml-book-recommendations-40c9ab30b0c
 
 
-***Notas de clase de cursos universitatios***
+**Notas de clase de cursos universitatios**
 
 Universidad de Toronto: https://www.dgp.toronto.edu/~hertzman/411notes.pdf
 Universidad de Stanford: http://cs229.stanford.edu/syllabus.html
