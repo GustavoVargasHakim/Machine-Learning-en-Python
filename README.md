@@ -73,6 +73,6 @@ https://pub.towardsai.net/best-machine-learning-books-free-and-paid-ml-book-reco
 
 **Notas de clase de cursos universitatios**
 
-Universidad de Toronto: https://www.dgp.toronto.edu/~hertzman/411notes.pdf
-Universidad de Stanford: http://cs229.stanford.edu/syllabus.html
-Universidad de California, Berkeley: https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf
+* Universidad de Toronto: https://www.dgp.toronto.edu/~hertzman/411notes.pdf
+* Universidad de Stanford: http://cs229.stanford.edu/syllabus.html
+* Universidad de California, Berkeley: https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf
