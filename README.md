@@ -52,7 +52,7 @@ Estudiantes terminales de la Maestría en Inteligencia Artificial en el Institut
 
 ### Día 4 - Redes Neuronales y Aprendizaje Profundo
 
-**Diapositivas:**
+**Diapositivas:** [Descarga](https://github.com/GustavoVargasHakim/Machine-Learning-en-Python/blob/main/Presentación%20Día%204%20-%20Aprendizaje%20Automát.pdf)
 
 1. El Perceptrón
 2. Redes Neuronales Multicapa y retropropagación
