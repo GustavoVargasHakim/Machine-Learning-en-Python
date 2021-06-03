@@ -59,7 +59,7 @@ Estudiantes terminales de la Maestría en Inteligencia Artificial en el Institut
 3. Red Neuronal Multicapa en Scikit-Learn
 4. Redes Neuronales Recurrentes (RNN)
 5. Redes Neuronales Convolucionales (CNN)
-6. Red Neuronal Convolucional en PyTorch
+6. Red Neuronal Convolucional en PyTorch [<img src = "badgecolab.svg">]
 7. Autoencoders y GANs
 8. Trabajo futuro y proyectos actuales
 
