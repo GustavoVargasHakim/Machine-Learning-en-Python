@@ -62,3 +62,17 @@ Estudiantes terminales de la Maestría en Inteligencia Artificial en el Institut
 6. Red Neuronal Convolucional en PyTorch
 7. Autoencoders y GANs
 8. Trabajo futuro y proyectos actuales
+
+
+### Recursos adicionales:
+
+***Lista de libros gratuitos y no gratuitos:***
+
+https://pub.towardsai.net/best-machine-learning-books-free-and-paid-ml-book-recommendations-40c9ab30b0c
+
+
+***Notas de clase de cursos universitatios***
+
+Universidad de Toronto: https://www.dgp.toronto.edu/~hertzman/411notes.pdf
+Universidad de Stanford: http://cs229.stanford.edu/syllabus.html
+Universidad de California, Berkeley: https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf
