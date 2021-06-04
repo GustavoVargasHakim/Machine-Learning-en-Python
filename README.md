@@ -5,9 +5,9 @@ Contenido del taller de Aprendizaje Automático en Python, del Coloquio de Divul
 
 ## **Impartido por:**
 
-* José Clemente Hernández Hernández  
+* José Clemente Hernández Hernández (jclementehdzhdz@gmail.com)
 
-* Gustavo Adolfo Vargas Hákim
+* Gustavo Adolfo Vargas Hákim (vargashakimg@gmail.com)
 
 Estudiantes terminales de la Maestría en Inteligencia Artificial en el Instituto de Investigaciones en Inteligencia Artificial de la Universidad Veracruzana (IIIA-UV) y miembros del grupo de investigación COVNNEC-App (Computer Vision, Neural Networks, Evolutionary Computation and their Applications). 
 
